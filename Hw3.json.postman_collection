@@ -1,0 +1,47 @@
+{
+	"owner": "303547",
+	"lastUpdatedBy": "303547",
+	"lastRevision": 168476137,
+	"team": null,
+	"id": "a80408d3-20af-dcd7-42cb-1da140953d34",
+	"name": "Hw3",
+	"description": "",
+	"remoteLink": null,
+	"order": [
+		"15a6d76c-e1f2-56fc-7b70-5abaa352759c"
+	],
+	"requests": [
+		{
+			"folder": null,
+			"id": "15a6d76c-e1f2-56fc-7b70-5abaa352759c",
+			"name": "https://billadona-test.apigee.net/oauth/client_credential/accesstoken?grant_type=client_credentials",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "client_id",
+					"value": "BBO79AZNGOsrcyRqjYT84EEcisuuWtMR",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "client_secret",
+					"value": "M4hQx37ulBivRiNi",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "https://billadona-test.apigee.net/oauth/client_credential/accesstoken?grant_type=client_credentials",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "a80408d3-20af-dcd7-42cb-1da140953d34"
+		}
+	]
+}

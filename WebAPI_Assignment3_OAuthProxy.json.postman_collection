@@ -1,0 +1,35 @@
+{
+	"id": "273a30e0-27f6-0a59-4608-e92f5310ce77",
+	"name": "WebAPI_Assignment3_OAuthProxy",
+	"description": "",
+	"order": [
+		"fda4a82b-d929-383e-b465-07f4522e1115"
+	],
+	"folders": [],
+	"timestamp": 1459220876079,
+	"owner": "303547",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "fda4a82b-d929-383e-b465-07f4522e1115",
+			"headers": "Authorization: Bearer OsAAohB80JbAMccr77tt41BVzeIV\n",
+			"url": "\thttp://billadona-test.apigee.net/webapi_assignment3",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "273a30e0-27f6-0a59-4608-e92f5310ce77",
+			"data": null,
+			"dataMode": "params",
+			"name": "\thttp://billadona-test.apigee.net/webapi_assignment3",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1459220876079,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
